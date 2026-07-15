@@ -123,7 +123,7 @@ Repeat.
 
 <p align="center">
   
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lawliet03&show_icons=true&theme=github_dark&hide_border=true" />  
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lawliet03&show_icons=true&theme=github_dark&hide_border=true" /> 
 
 </p>
 
